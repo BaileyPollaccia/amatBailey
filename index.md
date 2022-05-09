@@ -1,4 +1,4 @@
-## Bailey's  Portfolio
+## Bailey's Portfolio
 
 --- 
 
