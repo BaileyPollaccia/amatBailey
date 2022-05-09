@@ -1,6 +1,6 @@
 ## Bailey's  Portfolio
 
----
+--- 
 
 ###  Design Project 1
 
