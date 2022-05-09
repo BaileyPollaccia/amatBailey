@@ -2,7 +2,7 @@
 
 ---
 
-### Graphic Design Project 
+### Graphic Design Project 1
 
 [Project 1 blendimges](/sample_page)
 <img src="images/blendimages.png?raw=true"/>
