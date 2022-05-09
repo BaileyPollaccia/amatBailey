@@ -1,8 +1,8 @@
-## Baiey Pollaccia'ss Portfolio
+## Bailey's  Portfolio
 
 ---
 
-### Graphic Design Project 1
+###  Design Project 1
 
 [Project 1 blendimges](/sample_page)
 <img src="images/blendimages.png?raw=true"/>
