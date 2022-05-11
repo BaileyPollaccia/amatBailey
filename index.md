@@ -12,8 +12,8 @@
 <img src="images/Bruno mars and Adam.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 3 Griffiti](http://example.com/)
+<img src="images/picture.png?raw=true"/>
 
 ---
 
