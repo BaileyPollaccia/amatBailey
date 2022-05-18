@@ -25,7 +25,7 @@
 
 ---
 [Project 5 ob](http://example.com/)
-<img src="images/?raw=true"/>
+<img src="images/ob.png?raw=true"/>
 
 ### Category Name 2
 
