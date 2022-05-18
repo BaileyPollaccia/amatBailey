@@ -20,7 +20,7 @@
 <img src="images/cool.png?raw=true"/>
 
 ---
-[Project 4 cool](http://example.com/)
+[Project 4 galexycat2](http://example.com/)
 <img src="images/galexycat2.png?raw=true"/>
 
 ### Category Name 2
