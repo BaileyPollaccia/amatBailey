@@ -17,7 +17,7 @@
 
 ---
 [Project 4 cool](http://example.com/)
-<img src="images/picture.png?raw=true"/>?raw=true"/?raw=true"/>
+<img src="images/cool.png?raw=true"/>?raw=true"/>
 
 ---
 
