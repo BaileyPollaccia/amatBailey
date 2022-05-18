@@ -21,7 +21,7 @@
 
 ---
 [Project 4 cool](http://example.com/)
-<img src="images/cool.png?raw=true"/>
+<img src="images/?raw=true"/>
 
 ### Category Name 2
 
