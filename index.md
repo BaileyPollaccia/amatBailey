@@ -24,8 +24,9 @@
 <img src="images/galexycat2.png?raw=true"/>
 
 ---
-[Project 5 galexycat2](http://example.com/)
-<img src="images/galexycat2.png?raw=true"/>
+[Project 5 ob](http://example.com/)
+<img src="images/?raw=true"/>
+
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
