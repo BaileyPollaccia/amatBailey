@@ -16,6 +16,9 @@
 <img src="images/picture.png?raw=true"/>
 
 ---
+[Project 3 cool](http://example.com/)
+<img src="images/cool.png?raw=true"/?raw=true"/>
+---
 
 ### Category Name 2
 
