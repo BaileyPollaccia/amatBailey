@@ -20,9 +20,12 @@
 <img src="images/cool.png?raw=true"/>
 
 ---
-[Project 4 galexycat2](http://example.com/)
+[Project 5 galexycat2](http://example.com/)
 <img src="images/galexycat2.png?raw=true"/>
 
+---
+[Project 5 galexycat2](http://example.com/)
+<img src="images/galexycat2.png?raw=true"/>
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
