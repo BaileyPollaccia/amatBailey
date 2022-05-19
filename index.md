@@ -24,12 +24,12 @@
 <img src="images/galexycat2.png?raw=true"/>
 
 ---
-[Project 5 ob](http://example.com/)
+[Project 6 ob](http://example.com/)
 <img src="images/ob.png?raw=true"/>
 
 ---
-[Project 5 ob](http://example.com/)
-<img src="images/ob.png?raw=true"/>
+[Project 7 3d](http://example.com/)
+<img src="images/3d.png?raw=true"/>
 
 ### Category Name 2
 
