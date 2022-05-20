@@ -31,7 +31,6 @@
 [Project 7 3d](http://example.com/)
 <img src="images/3d.png?raw=true"/>
 
-### Category Name 2
 
 
 ---
